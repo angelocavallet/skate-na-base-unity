@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 6924771100255713036}
   - component: {fileID: 4944640103433855328}
   m_Layer: 5
-  m_Name: Prefab_FonteMontserrat
+  m_Name: Texto_FonteMontserrat
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
