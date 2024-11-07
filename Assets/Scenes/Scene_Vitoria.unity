@@ -1526,17 +1526,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2da0c512f12947e489f739169773d7ca, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &316085268 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 4476521629890591172, guid: 870946c30bbdce14b86a0cf0cfebfea8, type: 3}
-  m_PrefabInstance: {fileID: 1178704316}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2da0c512f12947e489f739169773d7ca, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1001 &343347918
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1660,17 +1649,6 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 2514256735476366815, guid: 870946c30bbdce14b86a0cf0cfebfea8, type: 3}
   m_PrefabInstance: {fileID: 5951809759171648390}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &375250135 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 4476521629890591172, guid: 870946c30bbdce14b86a0cf0cfebfea8, type: 3}
-  m_PrefabInstance: {fileID: 5951809759171648390}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2da0c512f12947e489f739169773d7ca, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &378344822
 GameObject:
   m_ObjectHideFlags: 0
@@ -7543,7 +7521,6 @@ GameObject:
   - component: {fileID: 1379486555}
   - component: {fileID: 1379486557}
   - component: {fileID: 1379486558}
-  - component: {fileID: 1379486559}
   m_Layer: 5
   m_Name: Perfil dos Pais
   m_TagString: Untagged
@@ -7642,22 +7619,6 @@ MonoBehaviour:
   image1: {fileID: 1555122894}
   image2: {fileID: 1618582228}
   image3: {fileID: 1782565016}
---- !u!114 &1379486559
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1379486553}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 875fbe3d043c1e24092af5798c810b55, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  sobreMimInput: {fileID: 316085268}
-  relatoInput: {fileID: 375250135}
-  painelPerfil: {fileID: 1379486553}
-  painelOutro: {fileID: 2105247348}
 --- !u!1001 &1386053500
 PrefabInstance:
   m_ObjectHideFlags: 0
